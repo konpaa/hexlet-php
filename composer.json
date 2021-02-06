@@ -1,0 +1,13 @@
+{
+    "name": "pavel/hexlet-php",
+    "description": "name",
+    "type": "project",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Konpa",
+            "email": "pavelkonoplyanikov@yandex.by"
+        }
+    ],
+    "require": {}
+}
